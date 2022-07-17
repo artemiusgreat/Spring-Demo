@@ -1,0 +1,18 @@
+# Log files
+*.log
+
+# Maven artifacts
+target/
+
+# Eclipse artifacts, including WTP generated manifests
+bin
+.classpath
+.project
+.settings
+.springBeans
+
+# IDEA artifacts and output dirs
+*.iml
+*.ipr
+*.iws
+.idea
