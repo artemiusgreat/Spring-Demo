@@ -8,5 +8,5 @@
 # Endpoints 
 
 - GET /api/v1/users
-- GET /api/v1/users/<id>
+- GET /api/v1/users/1
 - POST /api/v1/users/save
